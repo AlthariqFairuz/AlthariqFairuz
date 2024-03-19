@@ -1,10 +1,6 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Althariq Fairuz</h1>
 <h4> I am currently pursuing a degree in Informatics Engineering at the Bandung Institute of Technology. I have a strong interest in collaborative teamwork and internships. Feel free to contact me for potential collaborations! </h4>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
-</div>
 
 <h2> About Me </h2>
 
