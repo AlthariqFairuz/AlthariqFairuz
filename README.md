@@ -1,16 +1,30 @@
-<h1 align="center">Hi 👋! My name is Muhammad Althariq Fairuz, I'm a Machine Learning and Software Engineer, I'm from Institut Teknologi Bandung (ITB)</h1>
+<h1 align="center">Hi There👋!</h1>
+
+###
+
+<h3 align="left">My name is Muhammad Althariq Fairuz, I'm a machine learning and software engineer currently pursuing a Bachelor's degree in Informatics Engineering at Institut Teknologi Bandung (ITB)</h3>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/althariqfairuz/althariqfairuz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/althariqfairuz/althariqfairuz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/althariqfairuz/althariqfairuz/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=althariqfairuz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=althariqfairuz&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=althariqfairuz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=althariqfairuz&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=althariqfairuz&theme=tokyonight&no-frame=true&no-bg=true&column=-1&row=1" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<h2 align="left">Tech Stacks</h2>
+<h2 align="left">My Tech Stacks</h2>
 
 ###
 
@@ -99,16 +113,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/althariqfairuz/althariqfairuz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/althariqfairuz/althariqfairuz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/althariqfairuz/althariqfairuz/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
