@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Muhammad Althariq Fairuz, I'm a machine learning and software engineer currently pursuing a Bachelor's degree in Informatics Engineering at Institut Teknologi Bandung (ITB)</h3>
+<h3 align="left">My name is Muhammad Althariq Fairuz, i'm currently pursuing a Bachelor's degree in Informatics Engineering at Institut Teknologi Bandung, soon will continue to pursue Master's degree at University College London </h3>
 
 ###
 
@@ -16,13 +16,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=althariqfairuz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=althariqfairuz&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=althariqfairuz&theme=tokyonight&no-frame=true&no-bg=true&column=-1&row=1" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/althariqfairuz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=althariqfairuz&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="althariqfairuz's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=althariqfairuz&theme=radical&hide_border=true&cache_seconds=86400" alt="althariqfairuz's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=althariqfairuz&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="althariqfairuz's GitHub Trophies" />
+</p>
 
-###
 
 <h2 align="left">My Tech Stacks</h2>
 
